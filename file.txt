@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Main change
-=======
 Feature change
->>>>>>> feature
+Main change
+Feature change
+
